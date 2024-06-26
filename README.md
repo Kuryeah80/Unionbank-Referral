@@ -2,7 +2,7 @@
 
 Welcome to the UnionBank Credit Card Referral Program! This repository is dedicated to sharing information about UnionBank's credit card offers and how you can benefit from referring friends and family to apply using my referral link.
 
-![UnionBank Logo](https://your-image-url.com) <!-- Replace with actual image URL -->
+![https://www.unionbankph.com/sites/default/files/2019-06/uborange.svg](https://your-image-url.com) <!-- Replace with actual image URL -->
 
 ## About the Referral Program
 
@@ -37,8 +37,8 @@ To maximize your referral success, you can:
 
 If you have any questions about the referral program or need more information, feel free to contact me:
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- **Email**: [kuryeah80@gmail.com](mailto:your-email@example.com)
+- **LinkedIn**: [https://www.linkedin.com/in/sherwin-guimpol-743615210/](https://linkedin.com/in/yourprofile)
 
 ## License
 
