@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Refer a Friend to UnionBank</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+            color: #333;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+            margin-top: 50px;
+        }
+        h1 {
+            color: #0073e6;
+        }
+        p {
+            font-size: 18px;
+            line-height: 1.5;
+        }
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            margin: 20px 0;
+            font-size: 18px;
+            color: #fff;
+            background-color: #0073e6;
+            border: none;
+            border-radius: 5px;
+            text-decoration: none;
+            transition: background-color 0.3s ease;
+        }
+        .button:hover {
+            background-color: #005bb5;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Refer a Friend to UnionBank</h1>
+        <p>UnionBank offers incredible banking solutions, and now you can help your friends discover them too! Refer a friend to UnionBank and let them experience the exceptional services we provide.</p>
+        <p>Click the button below to refer a friend and get started:</p>
+        <a href="https://apply.cc-pl.unionbankph.com/PLCC/StartApplication?media=0035109966&scode=DCMMUBEMMS&utm_source=DCMMUBEMMS&utm_medium=MGM&utm_campaign=DCMMUBEMMS" class="button">Refer a Friend</a>
+        <p>Thank you for choosing UnionBank!</p>
+    </div>
+</body>
+</html>
